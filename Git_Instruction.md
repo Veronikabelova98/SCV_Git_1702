@@ -14,3 +14,8 @@
 git config --global user.name "Ваше имя"
 it config --global user.email "email@example.com"
 ```
+
+## 4. Создание нового репозитория
+* Сначала создаем на рабочем столе отдельную папку для проекта
+* Открывает папку в ***VC Code*** 
+* Вводим команду **git init**. 
